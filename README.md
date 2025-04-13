@@ -1,29 +1,42 @@
 # OPERATING-SYSTEMS
-Operating Systems course @ USI - Universita' della Svizzera Italiana
 
-__THE PROJECTS WERE DEVELOPED DURING THE 2024 SPRING SEMESTER__
+Operating Systems course @ USI - Università della Svizzera Italiana 
 
-The different directories are divided into :
+**THE PROJECTS WERE DEVELOPED DURING THE 2024 SPRING SEMESTER**
 
-    * PintOS_projectnumber_topic
-    * In the Pintos documentation __project numbers may be mismatching__ our project numbers, this is the reason why we added the topic in the folder name!!
+---
 
-ADVISED BY US :
+## 📁 Structure
 
-    * __Reports__ are found in each directory for each topic
-    * __Reports__ are very detailed and explain every single thing we did so we highly suggest you to read them while checking the code for better understanding!! 
+The different directories are divided into:
 
-What we used in order to complete all the projects is :
+- `PintOS_projectnumber_topic`
 
-    * __Theory__ from the theory lectures.
-    * __Previous Knowledge__ of programming language : C.  
-    * __Internet Research__ in order to gain more insights on the topics and more material.
+> 📝 *Note:* In the PintOS documentation, **project numbers may mismatch** our project numbers — that’s why we added the **topic** in the folder name for clarity!
 
-__*Good Luck for the completion of the projects and we hope our code and reports will help you throught it*__ 
+---
 
-Let us know if you have any comments, question, misunderstanding or simply if the repo has been useful:
+## 💡 Tips From Us
 
-    * Lamberto.Ragnolini@usi.ch
-    * Giorgia.Lillo@usi.ch
+- 📄 **Reports** are found in each directory and are **very detailed**.  
+  We **highly recommend reading them** alongside the code for better understanding.
 
-Really text us it was useful!!😊
+---
+
+## 🧰 What We Used
+
+- 📚 **Theory** from the course lectures  
+- 🧠 **Previous programming knowledge** in C  
+- 🌐 **Internet research** for additional insights and materials
+
+---
+
+## 🙌 Good Luck!
+
+**We hope our code and reports help you complete your projects successfully.**  
+If you have any questions, feedback, or just want to say the repo was helpful — please reach out!
+
+- 📬 Lamberto.Ragnolini@usi.ch  
+- 📬 Giorgia.Lillo@usi.ch
+
+> **Really, text us if this was useful! 😊**
