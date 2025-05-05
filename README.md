@@ -36,7 +36,7 @@ The different directories are divided into:
 **We hope our code and reports help you complete your projects successfully.**  
 If you have any questions, feedback, or just want to say the repo was helpful — please reach out!
 
-- 📬 Lamberto.Ragnolini@usi.ch  
-- 📬 Giorgia.Lillo@usi.ch
+- 📬 lamberto.ragnolini@usi.ch  
+- 📬 giorgia.lillo@usi.ch
 
 > **Really, text us if this was useful! 😊**
